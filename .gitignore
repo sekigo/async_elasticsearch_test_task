@@ -1,0 +1,7 @@
+.env
+.claude
+/.claude
+/.venv
+venv
+.env.example
+__pycashe__
