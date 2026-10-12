@@ -1,7 +1,5 @@
 # Document Search
 
-Простой поисковик по текстам документов: данные хранятся в PostgreSQL, поисковый индекс — в Elasticsearch.
-
 **Стек:** Python 3.12, FastAPI, SQLAlchemy 2 (async) + asyncpg, Elasticsearch 8 (async-клиент), pytest + httpx, Docker Compose.
 
 ## API
